@@ -1,0 +1,1 @@
+gensim topic modelling.ipynb is the main notebook with the code used to convert all text files in the "corpus" directory into series of strings which are then analysed with gensim's topic modelling functions
